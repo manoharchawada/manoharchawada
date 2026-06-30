@@ -34,11 +34,11 @@
 
 ```typescript
 const manohar: Developer = {
-  role        : "React Native Developer",
-  location    : "Indore, India 🇮🇳",
-  experience  : "3 Years",
-  company     : "Ideal IT Techno Pvt. Ltd.",
-  education   : "B.E. Electrical Engineering — PIEMR Indore",
+  role       : "React Native Developer",
+  location   : "Indore, India 🇮🇳",
+  experience : "3 Years",
+  company    : "Ideal IT Techno Pvt. Ltd.",
+  education  : "B.E. Electrical Engineering — PIEMR Indore",
 
   languages   : ["JavaScript (ES6+)", "TypeScript", "HTML5", "CSS3"],
   frontend    : ["React Native", "React.js", "Next.js"],
@@ -59,7 +59,8 @@ const manohar: Developer = {
 
   openTo      : ["Full-Time", "Remote", "Hybrid"],
   availability: "Immediate Joiner",
-  contact     : "Manoharchawada01@gmail.com",
+  contact    : "Manoharchawada01@gmail.com",
+phone: "7974576828"
 };
 ```
 
