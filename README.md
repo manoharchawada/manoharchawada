@@ -18,6 +18,9 @@
   <a href="tel:+917974576828">
     <img src="https://img.shields.io/badge/Call-%2B91%207974576828-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+<a href="https://manoharchawada.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 <p align="center">
